@@ -12,4 +12,8 @@ public class App
         System.out.println( "Hello World!" );
         
     }
+    
+    public void myNums() {
+    	System.out.println("one to ten");
+    }
 }
